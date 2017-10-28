@@ -1,2 +1,2 @@
 # Bitcoin-Miner
-Android clicker game
+Android application for the task from the KODE company.
